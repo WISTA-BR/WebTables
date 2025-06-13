@@ -1,0 +1,14 @@
+WebTables/
+├── extension/               # Chrome extension code files
+│   ├── manifest.json
+│   ├── content.js
+│   ├── background.js
+│   ├── popup.html
+│   ├── openpgp.min.js      # OpenPGP‑JS library (or link via CDN)
+│   ├── icon16.png
+│   ├── icon48.png
+│   └── icon128.png
+├── server/                  # Python server code
+│   ├── server.py
+│   └── requirements.txt
+└── README.md                # Project documentation / installer instructions
