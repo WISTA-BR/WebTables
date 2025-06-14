@@ -1,0 +1,21 @@
+    "Keith Walter Witzel, MBA (GPG key) <wista.br@gmail.com>"
+
+Change (N)ame, (C)omment, (E)mail or (O)kay/(Q)uit? o
+We need to generate a lot of random bytes. It is a good idea to perform
+some other action (type on the keyboard, move the mouse, utilize the
+disks) during the prime generation; this gives the random number
+generator a better chance to gain enough entropy.
+We need to generate a lot of random bytes. It is a good idea to perform
+some other action (type on the keyboard, move the mouse, utilize the
+disks) during the prime generation; this gives the random number
+generator a better chance to gain enough entropy.
+gpg: /home/codespace/.gnupg/trustdb.gpg: trustdb created
+gpg: key AE91E30B229B7600 marked as ultimately trusted
+gpg: directory '/home/codespace/.gnupg/openpgp-revocs.d' created
+gpg: revocation certificate stored as '/home/codespace/.gnupg/openpgp-revocs.d/B50C5F0F59BC6AFC1A316E15AE91E30B229B7600.rev'
+public and secret key created and signed.
+
+pub   rsa4096 2025-06-13 [SC]
+      B50C5F0F59BC6AFC1A316E15AE91E30B229B7600
+uid                      Keith Walter Witzel, MBA (GPG key) <wista.br@gmail.com>
+sub   rsa4096 2025-06-13 [E]
